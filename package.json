@@ -1,0 +1,23 @@
+{
+  "name": "practica-integracion-continua",
+  "version": "1.0.0",
+  "description": "Practica Integracion Continua",
+  "main": "holamundo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabnunezm/practica-integracion-continua.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabnunezm/practica-integracion-continua/issues"
+  },
+  "homepage": "https://github.com/gabnunezm/practica-integracion-continua#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
